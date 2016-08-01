@@ -1,0 +1,1 @@
+Further instrunctions can be found inside "nectarPointsBonus.js".
